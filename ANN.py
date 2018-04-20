@@ -1,3 +1,8 @@
+"""
+Artificial neural network, made with keras library, with TensorFlow as backend.
+
+"""
+
 import numpy as np
 import matplotlib.pyplot as plt
 import pandas as pd
